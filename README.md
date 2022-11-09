@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kaskit90
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Greg Smith
+- 👀 I’m interested in switching careers into security and IT.
+- 🌱 I’m currently learning endpoint security.
+- 💞️ I’m looking to collaborate on security best practices.
+- 📫 How to reach me kaskit90@icloud.com
 
 <!---
 Kaskit90/Kaskit90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
